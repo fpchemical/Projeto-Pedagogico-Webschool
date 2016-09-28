@@ -18,10 +18,10 @@ meio de algoritmo.
 
 ## OBJETIVOS ESPECÍFICOS 
 
-a) Desenvolver um algoritmo para: melhorar o entendimento do aluno quanto aos conceitos de química abordados nas reações químicas inorgânicas procurando desenvolver no aluno o pensamento lógico;
-b) Elaborar plano de aula que abordará os quatro tipos de reações químicas inorgânicas, sendo elas: síntese, decomposição, simples troca e dupla troca;
-c) Ministrar uma aula expositiva e dialogada com resolução de exercícios, referente ao uso de algoritmos;
-d) Avaliar a metodologia.
+- a) Desenvolver um algoritmo para: melhorar o entendimento do aluno quanto aos conceitos de química abordados nas reações químicas inorgânicas procurando desenvolver no aluno o pensamento lógico;
+- b) Elaborar plano de aula que abordará os quatro tipos de reações químicas inorgânicas, sendo elas: síntese, decomposição, simples troca e dupla troca;
+- c) Ministrar uma aula expositiva e dialogada com resolução de exercícios, referente ao uso de algoritmos;
+- d) Avaliar a metodologia.
 
 
 ## JUSTIFICATIVA 
