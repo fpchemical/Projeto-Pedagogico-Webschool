@@ -32,7 +32,7 @@ A maior preocupação do professor deveria ser a certeza de que seu aluno aprend
 
 Não se deve perder a esperança, o docente precisa aproveitar o momento das aulas para aplicar novas metodologias, utilizar de ferramentas que possibilitem um ensino construtivista que vai fazer com que os estudantes não apenas aprendam mas também compreendam aquilo que lhe está sendo ensinado e o mais importante: saber a aplicação deste conteúdo na sua vida.
 
-SOBRE A IMPORTÂNCA DO ENSINO CONSTRUTIVISTA
+## SOBRE A IMPORTÂNCA DO ENSINO CONSTRUTIVISTA
 
 Para muitos o tempo que nossas crianças passam na escola é o suficiente para que essa criança saia preparada para o mundo, pois lá ela está regada de saber e amparada por professores, pedagogos e diretores, enfim por toda uma equipe preparada para dar esse suporte. O grande impasse é que nem todas as escolas ou equipes têm esse preparo, ou ainda, até possuem o preparo adequado, mas o sistema educacional reprodutivista não lhes permite tal atuação. De acordo com Pozo (2002, pg 165) o professor deve atuar como mediador da construção do aprendizado do aluno servindo de base para a resolução de problemas iniciais, direcionando esse aluno para o caminho a ser seguido, criando uma autonomia nesse aluno, fazendo com que ele tenha a capacidade de resolver sozinho futuros problemas baseado no aprendizado que esse professor ofereceu.
 
