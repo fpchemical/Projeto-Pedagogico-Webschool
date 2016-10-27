@@ -1,4 +1,4 @@
-##AVALIAÇÃO EDUCACIONAL
+##MÉTODO DE AVALIAÇÃO EDUCACIONAL
 
 A avaliação do aluno no cotidiano escolar é de suma importância na visão do ensino reprodutivista empregado pelo sistema de ensino governamental atual, tendo como objetivo apresentar dados estatísticos que comprovem a qualidade do ensino no país, dessa forma conseguem mascarar a situação extremamente precária do ensino e o impacto disso na sociedade, pois uma sociedade ignorante se torna alienada e à mercê de políticas públicas corrúptas que causam a desigualdade social.
 
