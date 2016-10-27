@@ -62,7 +62,7 @@ Notas Explicativas
 4 “Basic Principles of Curriculum and Instruction” - Tradução: Princípios Básicos de Currículo e Instrução
 
 5 A base racional proposta pelo autor se define em quatro questões fundamentais que  permitem a elaboração de qualquer currículo ou plano de ensino: 
-Que objetivos educacionais deve a escola procurar atingir?;
+Que objetivos educacionais deve a escola procurar atingir?;			
 Que experiências educacionais podem ser oferecidas que tenham probabilidade de alcançar esses propósitos?; 
 Como organizar eficientemente essas experiências educacionais?; 
 Como podemos ter certeza de que esses objetivos estão sendo alcançados?
