@@ -16,7 +16,7 @@ No histórico do aprendizado humano podemos encontrar registros antigos dos egí
 
 
 
-
+		
 3 – Evolução da avaliação
 
 Uma importante ferramenta inata do homem que contribuiu para desenvolvimento cognitivo é a memória, ela está presente desde a Pré-história onde os homens representavam suas ações em mitogramas e pinturas rupestres, essas representações podem ser classificadas como memória coletiva, que tem por definição representar a sociedade por meio de monumentos, pinturas de forma ilustrativa, como se registrasse um episódio ocorrido naquele tempo, um ótimo exemplo é um monumento monolítico talhado em rocha de diorito intitulado como Código de Hammurabi3 que é uma das primeiras escrituras da lei do direito civil.  
@@ -28,3 +28,41 @@ Na Idade Média surgiu também os primeiros estudos sobre a memória, uma época
 No período do Renascimento Descartes propõe dois "métodos" lógicos para dominar a imaginação, disse ele: "Atua-se através da redução das coisas às causas. E como todas podem ser reduzidas a uma, é evidente que não é preciso memória para se reter toda a ciência”.
 
 Dentre as manifestações mais importantes e significativas da história da memória coletiva podemos apontar a construção de monumentos aos mortos da Primeira Guerra Mundial e a fotografia que significou uma verdadeira revolução do registro da memória. Do século XIX até parte do século XX destacou-se a psicometria, método que aplicava testes pradonizados para mensurar a inteligência e o desempenho das pessoas, mas foi em 1950 na Universidade de Chicago que  Ralph Tyler desenvolveu um programa elaborado para sua disciplina Educação 360, tendo como título:Basic Principles of Curriculum and Instruction**, método também entitulado de “Princípios de Tyler”1 onde apresenta uma base para a construção de qualquer currículo escolar, esse vem sendo utilizado até hoje. 
+
+4 - Funções do processo avaliativo
+
+
+Para Tyler (1979), que tem grande influência até hoje no meio educacional, o processo avaliativo resume-se em diagnosticar se os objetos educacionais estão exercendo impacto na mudança de comportamento dos alunos. 
+Segundo Haidt (1995, pg. 288) o processo avaliativo significa coletar dados que serão analisados segundo os objetivos esperados, se foram alcançados ou não. 
+
+
+5 - Tipos de Avaliação
+
+
+Formativa: o objetivo dessa avaliação é a verificação do aproveitamento do aluno quanto aos conteúdos repassados pelo professor. 
+
+Cumulativa: o objetivo dessa avaliação é a retenção do aprendizado do aluno no decorrer das aulas. Podendo ser utilizada pelo professor ao final do ano letivo.
+
+Diagnóstica: o objetivo dessa avaliação é o nivelamento do nível da aula que o professor pretende dar, geralmente é aplicada no começo do ano letivo. 
+
+Somativa: o objetivo dessa avaliação é a atribuição de valores ou especificamente as notas em relação às atividades realizadas pelos alunos durante o ano letivo.
+
+Auto-avaliação: o objetivo dessa avaliação é a conscientização da efetividade do aprendizado, pode ser realizada tanto pelo professor quanto pelo aluno. 
+
+
+Notas Explicativas
+
+
+1 Código de Hammurab: http://www.jstor.org/stable/3153895?seq=1#page_scan_tab_contents
+
+2 Lei de Talião: “Olho por olho, dente por dente”
+
+3  História da teoria mneumônica:  http://www.dec.ufcg.edu.br/biografias/Simonide.html
+
+4 “Basic Principles of Curriculum and Instruction” - Tradução: Princípios Básicos de Currículo e Instrução
+
+5 A base racional proposta pelo autor se define em quatro questões fundamentais que  permitem a elaboração de qualquer currículo ou plano de ensino: 
+Que objetivos educacionais deve a escola procurar atingir?;
+Que experiências educacionais podem ser oferecidas que tenham probabilidade de alcançar esses propósitos?; 
+Como organizar eficientemente essas experiências educacionais?; 
+Como podemos ter certeza de que esses objetivos estão sendo alcançados?
