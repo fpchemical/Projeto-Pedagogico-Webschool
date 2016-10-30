@@ -57,10 +57,19 @@ São muitas as variáveis que podem influenciar no ensino-aprendizagem de um alu
 
 
 
+
+
+
 APRENDIZAGEM SIGNIFICATIVA (em produção!)
 
 
+
+
+
 ALGORITMOS (em produção!)
+
+
+
 
 
 
