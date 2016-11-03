@@ -1,5 +1,9 @@
 # TCC 
 
+Trabalho de Conclusão do Curso de Licenciatura em Química da Universidade PUC-PR.
+
+- nome: Franciele Pereira
+
 ## PROBLEMATIZAÇÃO
 
 [https://github.com/fpchemical/TCC/blob/master/problematizacao.md](https://github.com/fpchemical/TCC/blob/master/problematizacao.md)
