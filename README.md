@@ -4,24 +4,24 @@ Trabalho de Conclusão do Curso de Licenciatura em Química da Universidade PUC-
 
 - nome: Franciele Pereira
 
-## PROBLEMATIZAÇÃO
+## [PROBLEMATIZAÇÃO](https://github.com/fpchemical/TCC/blob/master/docs/problematizacao.md)
 
-[https://github.com/fpchemical/TCC/blob/master/problematizacao.md](https://github.com/fpchemical/TCC/blob/master/problematizacao.md)
+[https://github.com/fpchemical/TCC/blob/master/docs/problematizacao.md](https://github.com/fpchemical/TCC/blob/master/docs/problematizacao.md)
 
-## HIPÓTESE
+## [HIPÓTESE](https://github.com/fpchemical/TCC/blob/master/docs/hipotese.md)
 
-[https://github.com/fpchemical/TCC/blob/master/hipotese.md](https://github.com/fpchemical/TCC/blob/master/hipotese.md)
+[https://github.com/fpchemical/TCC/blob/master/docs/hipotese.md](https://github.com/fpchemical/TCC/blob/master/docs/hipotese.md)
         
-## OBJETIVOS
+## [OBJETIVOS](https://github.com/fpchemical/TCC/blob/master/docs/objetivos.md)
 
-[https://github.com/fpchemical/TCC/blob/master/objetivos.md](https://github.com/fpchemical/TCC/blob/master/objetivos.md)
-
-
-## JUSTIFICATIVA 
-
-[https://github.com/fpchemical/TCC/blob/master/justificativa.md](https://github.com/fpchemical/TCC/blob/master/justificativa.md)
+[https://github.com/fpchemical/TCC/blob/master/docs/objetivos.md](https://github.com/fpchemical/TCC/blob/master/docs/objetivos.md)
 
 
-## REFERENCIAL TEÓRICO
+## [JUSTIFICATIVA ](https://github.com/fpchemical/TCC/blob/master/docs/justificativa.md)
 
-[https://github.com/fpchemical/TCC/blob/master/referencialtccpuc.md](https://github.com/fpchemical/TCC/blob/master/referencialtccpuc.md)
+[https://github.com/fpchemical/TCC/blob/master/docs/justificativa.md](https://github.com/fpchemical/TCC/blob/master/docs/justificativa.md)
+
+
+## [REFERENCIAL TEÓRICO](https://github.com/fpchemical/TCC/blob/master/docs/referencialtccpuc.md)
+
+[https://github.com/fpchemical/TCC/blob/master/docs/referencialtccpuc.md](https://github.com/fpchemical/TCC/blob/master/docs/referencialtccpuc.md)
