@@ -10,7 +10,7 @@ Uma aprendizagem mais significativa se faz necessária no contexto atual de soci
 
 O método convencional de ensino-aprendizado encontrado hoje nas salas de aula faz com que os alunos forneçam basicamente uma reprodução do que foi ensinado e cobrado pelo professor, deixando de ser significativo em seu contexto sócio-cultural, ao trazer um conteúdo para a sala de aula, o professor deve estar atento à aplicação deste conteúdo, segundo Pozo (2002, pg 48)  a nova informação adquirida deve estar ligada ao conhecimento prévio que cada um possui, sendo assim permitido construir modelos de interpretação para a compreensão da nova informação recebida. 
 
-##2.1 Sobre o reprodutivismo 
+## 2.1 Sobre o reprodutivismo 
 
 No ensino reprodutivista a escola acaba por ter uma papel de legitimadora do poder da classe dominante, pois fornece formas diferentes de conhecimento às classes sociais e com isso direciona os alunos às futuras profissões. Com o surgimento do capitalismo esse metódo empregado pelas escolas fez com que a classe mais pobre não tivesse acesso a uma educação de qualidade assim como os alunos das classes mais nobres, essa falta de acesso impossibilita o ingresso em instituições de ensino superior e por consequência limita sua atuação no mercado de trabalho. Esse modelo de educação reprodutivista promove as diferências sociais. 
 
@@ -28,7 +28,7 @@ Em contrapartida ao reprodutivismo pode-se citar o sociólogo educacional Pierre
 
 > 3) Teoria da escola dualista: tese apresentada em meados de 1958 por Baudelot e Establet onde afirmava que a escola capitalista era uma escola dividida entre os ricos e os pobres, para os pobres sobrou uma escola com a missão assistencial e acolhedora.
 
-##2.2 Os princípios do Construtivismo 
+## 2.2 Os princípios do Construtivismo 
 
 A ocorrência da aprendizagem na visão contrutivista sugere que ela acontece a partir do sujeito, porém ele aprenderá conforme a sua capacidade cognitiva. Podemos considerar Jean Piaget (1896−1980) como o precursor da visão construtivista, incentivando a produção de outras obras da teoria do desenvolvimento e aprendizagem como a do psicólogo Vygotsky. 
 
@@ -43,7 +43,7 @@ De acordo com Franco (1993) o Construtivismo pode ser considerado um instrumento
 > como uma prática que tem a possibilidade de criar condições para que todos os alunos desenvolvam suas capacidades e aprendam os conteúdos necessários para construir instrumentos de compreensão da realidade e de participação em relações sociais, políticas e culturais diversificadas e cada vez mais amplas, condições estas fundamentais para o exercício da cidadania na construção de uma sociedade democrática e não excludente (BRASIL, 1997, p. 33).
 
 
-##2.2.1 O Construtivismo na sala de aula 
+## 2.2.1 O Construtivismo na sala de aula 
 
 Muitos professores, mesmo sem perceber, empregam os princípios do Construtivismo no dia a dia quando consideram as idéias dos alunos durante as aulas, quando dão uma aplicabilidade dos conceitos no cotidiano dos alunos e também quando utilizam o questionamento como metodolgia da sua aula. Essas práticas de interação professor-aluno na concepção de Präss (2012 apud VYGOTSKY, 2007), são defendidas por Vygotsky por serem responsáveis pela edificação dos saberes. 
 
@@ -56,21 +56,17 @@ São muitas as variáveis que podem influenciar no ensino-aprendizagem de um alu
 > Sensibilizar é educar no sentido mais profundo da palavra: acompanhar o educando para que encontre seus próprios sistemas de valores. Para que canalize suas energias mais humanas para metas mais solidárias; ajudá-lo a sair do próprio egoísmo(SEQUEIROS, 2000, p. 17 e 11).
 
 
+## 2.3 Aprendizagem Significativa 
 
 
-
-
-APRENDIZAGEM SIGNIFICATIVA (em produção!)
-
-
-
+ teoria da aprendizagem de David Ausubel																														
 
 
 ALGORITMOS (em produção!)
 
 
 
-
+										
 
 
 ##3 AVALIAÇÃO
