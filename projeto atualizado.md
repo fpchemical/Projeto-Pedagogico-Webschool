@@ -118,7 +118,7 @@ São muitas as variáveis que podem influenciar no ensino-aprendizagem de um alu
 
 > Sensibilizar é educar no sentido mais profundo da palavra: acompanhar o educando para que encontre seus próprios sistemas de valores. Para que canalize suas energias mais humanas para metas mais solidárias; ajudá-lo a sair do próprio egoísmo(SEQUEIROS, 2000, p. 17 e 11).
 
-## 5.3 Aprendizagem Significativa
+### 5.3 Aprendizagem Significativa
 
 Como autor da Teoria da Aprendizagem Significativa, Ausubel (2003, folha de rosto) juntou a significância da mudança do aprendizado causada no indivíduo ao conceito genérico de conhecimento. Definiu como causa do efeito das modificações nas estruturas cognitivas biológicas do ser, onde o aprendizado é concretizado pela unificação do seu pré-conhecimento com as influências do meio onde vive.
 
@@ -141,7 +141,7 @@ De acordo com Pozo (1998) ensinar os alunos a utilizar algoritmos como ferrament
 ## 7 REAÇÕES QUÍMICAS
 
 
-## 8 ALGORITMO COMO FERRAMENTA DE ENSINO DE REAÇÕES QUÍMICAS INORG NICAS
+## 8 ALGORITMO COMO FERRAMENTA DE ENSINO DE REAÇÕES QUÍMICAS INORGÂNICAS
 
 ### 8.1 Algoritmo padrão para reações
 
