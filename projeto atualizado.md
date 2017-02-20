@@ -10,13 +10,13 @@ Seria possível utilizar o algoritmo como uma nova metodologia de ensino do cont
 Para a compreensão do conteúdo de Reações Químicas Inorgânicas é relevante que se faça a conexão dos conteúdos anteriormente aprendidos, pois não se pode separá-los, estão intrinsecamente unidos. Uma forma mais didática de se conectar esses conteúdos é através do uso de algoritmos que nada mais é que uma sequência de passos para a execução de alguma ação ou resolução de qualquer problema, seja no âmbito social, profissional ou escolar utitlizando-se de conceitos previamente adquiridos,  procurando resolver a situação ou problema da maneira mais genérica possível.
 
 
-# 3 OBJETIVO GERAL
+## 3 OBJETIVO GERAL
 
 
 Promover a melhora do processo de ensino-aprendizagem do conceito de Reações Químicas Inorgânicas para alunos de Ensino Médio por meio de algoritmo.
 
 
-## 3.1 Objetivos Específicos
+### 3.1 Objetivos Específicos
 
 
 a) Elaborar uma sequência didática que abordará os quatro tipos de reações químicas inorgânicas, sendo elas: síntese, decomposição, simples troca e dupla troca;
@@ -59,7 +59,7 @@ Uma aprendizagem mais significativa se faz necessária no contexto atual de soci
 O método convencional de ensino-aprendizado encontrado hoje nas salas de aula faz com que os alunos forneçam basicamente uma reprodução do que foi ensinado e cobrado pelo professor, deixando de ser significativo em seu contexto sócio-cultural, ao trazer um conteúdo para a sala de aula, o professor deve estar atento à aplicação deste conteúdo, segundo Pozo (2002, pg 48)  a nova informação adquirida deve estar ligada ao conhecimento prévio que cada um possui, sendo assim permitido construir modelos de interpretação para a compreensão da nova informação recebida.
 
 
-## 5.1 Sobre o Reprodutivismo
+### 5.1 Sobre o Reprodutivismo
 
 
 No ensino reprodutivista a escola acaba por ter uma papel de legitimadora do poder da classe dominante, pois fornece formas diferentes de conhecimento às classes sociais e com isso direciona os alunos às futuras profissões. Com o surgimento do capitalismo esse método empregado pelas escolas fez com que a classe mais pobre não tivesse acesso a uma educação de qualidade assim como os alunos das classes mais abastadas, essa falta de acesso impossibilita o ingresso em instituições de ensino superior e por consequência limita sua atuação no mercado de trabalho. Esse modelo de educação reprodutivista promove as diferenças sociais.
@@ -85,7 +85,7 @@ Em contrapartida ao reprodutivismo pode-se citar o sociólogo educacional Pierre
 > 3) Teoria da escola dualista: tese apresentada em meados de 1958 por Baudelot e Establet onde afirmava que a escola capitalista era uma escola dividida entre os ricos e os pobres, para os pobres sobrou uma escola com a missão assistencial e acolhedora.
 
 
-## 5.2 Os princípios do Construtivismo
+### 5.2 Os princípios do Construtivismo
 
 
 A ocorrência da aprendizagem na visão construtivista sugere que ela acontece a partir do sujeito, porém ele aprenderá conforme a sua capacidade cognitiva. Podemos considerar Jean Piaget (1896−1980) como o precursor da visão construtivista, incentivando a produção de outras obras da teoria do desenvolvimento e aprendizagem como a do psicólogo Vygotsky.
@@ -105,7 +105,7 @@ De acordo com Franco (1993) o Construtivismo pode ser considerado um instrumento
 O ambiente familiar e escolar são de suma importância no desenvolvimento da inteligência, atuam como estimuladores do processo (PIAGET, 2003). Partindo da concepção do construtivismo, Coll (2004) propõe que o professor não se atenha somente ao papel de orientador, mas também que tenha uma interação social com seus alunos assumindo um papel de formador de cidadãos com pensamento crítico.
 
 
-## 5.2.1 O Construtivismo na sala de aula
+### 5.2.1 O Construtivismo na sala de aula
 
 
 Muitos professores, mesmo sem perceber, empregam os princípios do Construtivismo no dia a dia quando consideram as idéias dos alunos durante as aulas, quando dão uma aplicabilidade dos conceitos no cotidiano dos alunos e também quando utilizam o questionamento como metodologia da sua aula. Essas práticas de interação professor-aluno na concepção de Präss (2012 apud VYGOTSKY, 2007), são defendidas por Vygotsky por serem responsáveis pela edificação dos saberes.
@@ -118,5 +118,110 @@ São muitas as variáveis que podem influenciar no ensino-aprendizagem de um alu
 
 > Sensibilizar é educar no sentido mais profundo da palavra: acompanhar o educando para que encontre seus próprios sistemas de valores. Para que canalize suas energias mais humanas para metas mais solidárias; ajudá-lo a sair do próprio egoísmo(SEQUEIROS, 2000, p. 17 e 11).
 
+## 5.3 Aprendizagem Significativa
 
+Como autor da Teoria da Aprendizagem Significativa, Ausubel (2003, folha de rosto) juntou a significância da mudança do aprendizado causada no indivíduo ao conceito genérico de conhecimento. Definiu como causa do efeito das modificações nas estruturas cognitivas biológicas do ser, onde o aprendizado é concretizado pela unificação do seu pré-conhecimento com as influências do meio onde vive.
+
+Na concepção de Ausubel (2003, p.10) um aprendizado significativo depende da eficiência da estrutura cognitiva, caso ela não seja eficiente implicará na inibição do da retenção do conteúdo.
+
+O ensino expositivo não gera uma assimilação expressiva, pois seu conteúdo é desprovido de fundamentos pertinentes. (AUSUBEL, 2000, pg.7)
+
+Segundo Chassot (2004, p. 132) um ensino de Química significativo só ocorrerá mediante a interação do conteúdo e o cotidiano do aluno, metodologia essa pouco utilizada nas escolas. De acordo com Ausubel (2003, p.8) a junção de um conceito novo a um conceito que já se detêm, produz a real compreensão do novo conhecimento adquirido.
+
+Ausubel (2000) enfatiza o papel do professor como mediador do aprendizado, adjutorando a retenção e acomodação das novas ideias que seu aluno está recebendo.
+
+Vygotski (1998, p. 115) caracteriza a aprendizagem como inata e necessária na formação das crenças no indivíduo no decorrer da sua vida. 
+
+
+## 6 ALGORITMO
+
+
+De acordo com Pozo (1998) ensinar os alunos a utilizar algoritmos como ferramenta de resolução de problemas quantitativos pode gerar nos alunos a possibilidade de sucesso na resolução de problemas mais complicados.
+
+## 7 REAÇÕES QUÍMICAS
+
+
+## 8 ALGORITMO COMO FERRAMENTA DE ENSINO DE REAÇÕES QUÍMICAS INORG NICAS
+
+### 8.1 Algoritmo padrão para reações
+
+### 8.2 Algoritmo genérico para reação de decomposição
+
+### 8.3 Algoritmo genérico para reação de síntese
+
+### 8.4 Algoritmo genérico para reação de simples troca
+
+### 8.5 Algoritmo genérico para reação de dupla troca
+
+### 8.5 Algoritmo genérico para reações
+
+### 8.6 Exemplos de exercícios de aplicação dos algoritmos genéricos construídos
+
+
+## 9 AVALIAÇÃO
+
+A avaliação do aluno no cotidiano escolar é de suma importância na visão do ensino reprodutivista empregado pelo sistema de ensino governamental atual, tendo como objetivo apresentar dados estatísticos que comprovem a qualidade do ensino no país, dessa forma conseguem mascarar a situação extremamente precária do ensino e o impacto disso na sociedade, pois uma sociedade ignorante se torna alienada e à mercê de políticas públicas corruptas que causam a desigualdade social.
+
+A situação do sistema escolar atual é degradante, os alunos são avaliados conforme a qualidade de reprodução dos conceitos aprendidos nas diversas matérias do currículo escolar e a ementa proposta pelo MEC dificilmente é cumprida pelos professores devido ao tempo limitado das aulas, a falta de material de apoio, à má gestão da escola, dentre outros ene motivos que impedem um ensino de qualidade.
+
+Os professores são limitados na exerção da sua função, o calendário anual traçado pelo MEC impõe inúmeras avaliações a cada trimestre e isso acarreta uma defasagem do plano de ensino definido pelo professor no início do ano, o professor precisa revisar muitas vezes o mesmo conteúdo com o objetivo de aplicar as avaliações.
+
+O trimestre é dividido em duas parciais contendo duas avaliações somativas e a cada uma deve ser aplicada outra avaliação, para a recuperação, caso o aluno ainda não tenha conseguido atingir a média, ele ainda tem direito a mais uma avaliação de recuperação, portanto em três meses são aplicadas cinco avaliações, o mais complicado que a cada avaliação aplicada o professor deve separar uma aula para retomada de conteúdo que é repetido, repetido e repetido sem efeito algum, pois não causa uma aprendizagem significativa nos alunos. Esse cronograma dificulta o emprego de metodologias mais significativas, um exemplo é o tempo que o professor passa registrando repetidas vezes o mesmo conteúdo das atividades diárias no Livro Registro da escola, isso toma um tempo precioso que o professor poderia utilizar para efetivar de fato a proposta da hora-atividade concentrada que tem como proposta pedagógica de unir professores de disciplinas do mesmo nicho para gerar conteúdos interdisciplinares.
+
+
+### 9.1 A origem da avaliação
+
+
+Desde a antiguidade a sociedade impõe aos indivíduos diversas formas de avaliação, eram empregadas na divisão dos trabalhos e até mesmo na administração das suas comunidades. Platão ( 348/347 a.C. - Atenas) através do personagem Sócrates preconizou a ideia de auto-avaliação como meio para alcançar a máxima sabedoria, ele também instigava seus alunos à prática das técnicas mnemônicas criadas por Simônides de Céos (264 a.C.).
+
+No histórico do aprendizado humano podemos encontrar registros antigos dos egípcios ( 3 100 a.C.)) e sumérios (4.000 a.C) relatando a prática de repetição como método de aprendizagem da época, sendo assim a memorização pode ser considerada uma prática muito antiga. Em meados de 347 a.C. surgiu a escola de Platão a qual tinha como metodologia de ensino-aprendizagem o raciocínio lógico e era restrito a um pequeno grupo.
+
+
+### 9.2  Evolução da avaliação
+
+
+Uma importante ferramenta inata do homem que contribuiu para desenvolvimento cognitivo é a memória, ela está presente desde a Pré-história onde os homens representavam suas ações em mitogramas e pinturas rupestres, essas representações podem ser classificadas como memória coletiva, que tem por definição representar a sociedade por meio de monumentos, pinturas de forma ilustrativa, como se registrasse um episódio ocorrido naquele tempo, um ótimo exemplo é um monumento monolítico talhado em rocha de diorito intitulado como Código de Hammurabi1 é a legislação mais antiga de que se tem conhecimento e também chamada lei de talião2.
+
+Na história da humanidade a memória se manifestou de diversas formas e com a evolução social da vida urbana o homem desenvolveu a memória oral e a memória escrita que gerou inúmeros documentos históricos, um exemplo que pode ser citado é o Livro Deuteronômio do Antigo Testamento que apela para o dever da recordação e memorização dos fatos.
+
+Na Idade Média surgiu também os primeiros estudos sobre a memória, uma época que a escrita foi muito valorizada pela igreja e destinada apenas aos padres dedicados aos estudos eclesiásticos desenvolvendo sua aprendizagem a partir de transcrição de textos religiosos e definiam essa prática como um recurso mnemônico3.
+
+No período do Renascimento Descartes propõe dois "métodos" lógicos para dominar a imaginação, disse ele: "Atua-se através da redução das coisas às causas. E como todas podem ser reduzidas a uma, é evidente que não é preciso memória para se reter toda a ciência”.
+
+Dentre as manifestações mais importantes e significativas da história da memória coletiva podemos apontar a construção de monumentos aos mortos da Primeira Guerra Mundial e a fotografia que significou uma verdadeira revolução do registro da memória. Do século XIX até parte do século XX destacou-se a psicometria, método que aplicava testes padronizados para mensurar a inteligência e o desempenho das pessoas, mas foi em 1950 na Universidade de Chicago que  Ralph Tyler desenvolveu um programa elaborado para sua disciplina Educação 360, tendo como título: Basic Principles of Curriculum and Instruction4, método também intitulado de “Princípios de Tyler”5 onde apresenta uma base para a construção de qualquer currículo escolar, esse vem sendo utilizado até hoje.
+
+
+### 9.3 Funções do processo avaliativo
+
+
+Independente da metodologia aplicada, sempre podemos encontrar um método avaliativo proposto para cada uma, cabe ao professor verificar qual método avaliativo servirá como melhor ferramenta em seu cotidiano.
+
+Para Tyler (1979), que tem grande influência até hoje no meio educacional, o processo avaliativo resume-se em diagnosticar se os objetos educacionais estão exercendo impacto na mudança de comportamento dos alunos.
+
+Segundo Haidt (1995, pg.288) o processo avaliativo significa coletar dados que serão analisados segundo os objetivos esperados, se foram alcançados ou não.
+
+### 9.4 Avaliação na visão do Construtivismo
+
+### 9.5 Avaliação segundo Ausubel
+
+### 9.6 Avaliação e a PNL
+
+### 9.7 Tipos de Avaliação
+
+
+> Diagnóstica: o objetivo dessa avaliação é o nivelamento do nível da aula que o professor pretende dar, geralmente é aplicada no começo do ano letivo.
+
+> Formativa: o objetivo dessa avaliação é a verificação do aproveitamento do aluno quanto aos conteúdos repassados pelo professor.
+
+> Cumulativa: o objetivo dessa avaliação é a retenção do aprendizado do aluno no decorrer das aulas. Podendo ser utilizada pelo professor ao final do ano letivo.
+
+> Somativa: o objetivo dessa avaliação é a atribuição de valores ou especificamente as notas em relação às atividades realizadas pelos alunos durante o ano letivo.
+
+> Auto-avaliação: o objetivo dessa avaliação é a conscientização da efetividade do aprendizado, pode ser realizada tanto pelo professor quanto pelo aluno.
+
+### 9.8 A avaliação na visão da Taxonomia de Bloom
+
+Para Mager (1984) as metodologias educacionais servem de base para os docentes proporcionar aos seus discentes a aquisição de conhecimentos, estando sempre engajados para que possam despertar em seus alunos a mesma aspiração.
+
+A tabela dos processos cognitivos pode ser utilizada para diversos fins além do âmbito educacional, serve como base orientadora de exercícios, dinâmicas, avaliação, dentre outras. KRATHWOHL (2002).
 
